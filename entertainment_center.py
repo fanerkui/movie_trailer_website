@@ -1,7 +1,8 @@
 import media
 import fresh_tomatoes
 
-
+"""Create some specific movie instance.
+"""
 star_wars_the_last_jedi = media.Movie("Star Wars: The Last Jedi",
                                       "The Last Jedi, the \
                                       Skywalker saga continues.",
